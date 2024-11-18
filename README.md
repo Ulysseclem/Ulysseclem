@@ -2,6 +2,7 @@
 
 ### Petite note
 <p align="center">
+
 ![hippo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTF4bjFvbWVlOWhyejltcnQ0bW0wZDFhZGlwbGMwaHMzenM2YTNpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHBGehJ3FSZEygszX3/giphy.webp)<br>
 </p>
 
