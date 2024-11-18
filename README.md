@@ -1,6 +1,7 @@
 # Bonjour ! 👋
 
 ## Petite note
+![hippo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTF4bjFvbWVlOWhyejltcnQ0bW0wZDFhZGlwbGMwaHMzenM2YTNpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DHBGehJ3FSZEygszX3/giphy.webp)
 Ce github est en cours de construction !
 Mais plein de projets sympahtique seront rajoutés sur ce dernier bientôt, je vous l'assure !
 
